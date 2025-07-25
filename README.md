@@ -13,7 +13,7 @@ A lightweight, local OCR application written in a single Python script using [Ea
   * CPU (default)
   * CUDA (NVIDIA GPU)
   * MSP-X (Apple M1/M2)
-* **Simple GUI**: Single-script, PySimpleGUI interface—no web browser needed.
+* **Simple GUI**: Single-script, PySimpleGUI interface, no web browser needed.
 
 ---
 
