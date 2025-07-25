@@ -60,6 +60,12 @@ A lightweight, local OCR application written in a single Python script using [Ea
 
 ## 🚀 Usage
 
+---
+![App Screenshot](https://cdn.discordapp.com/attachments/535071254399680523/1398388788278988850/2747576E-1CCC-4BDF-9145-A2D20C06FDDB.png?ex=68852e8b&is=6883dd0b&hm=a4172435588c8106a4be969b75f343206817790628aa7efa132042b9438bab28&)
+---
+
+
+
 1. **Launch the app**:
 
    ```bash
@@ -73,6 +79,7 @@ A lightweight, local OCR application written in a single Python script using [Ea
        * It will open a browse window and after selecting an image the OCR will start then the text will be available within the text box
    * Easy selection of languages to be used during OCR
        * A selected languages list can be modified with add/removoe languages from a dropdown/text input table and using the buttons
+       * Languages can be added by writing the name of the language directly instead of using the dropdown as well
    * Dark and white mode (Dark mode looks pretty bad it is a work in progress)
 ---
 
