@@ -3,6 +3,10 @@
 A lightweight, local OCR application written in a single Python script using [EasyOCR](https://github.com/JaidedAI/EasyOCR). Supports CPU, NVIDIA CUDA GPUs, and Apple Silicon (MSP-X) acceleration—all on your machine, no cloud required.
 
 ---
+### The compiled version can be downloaded here:
+[Mosquito OCR Compiled](https://drive.google.com/file/d/1oSSqwr4wJ8A_Y83QtBkmfOZ1PxSSs094/view?usp=sharing)
+##### The release was compiled using pyinstaller.
+---
 
 ## 🔍 Features
 
