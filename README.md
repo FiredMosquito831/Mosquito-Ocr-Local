@@ -6,6 +6,7 @@ A lightweight, local OCR application written in a single Python script using [Ea
 ### The compiled version can be downloaded here:
 [Mosquito OCR Compiled](https://drive.google.com/file/d/1oSSqwr4wJ8A_Y83QtBkmfOZ1PxSSs094/view?usp=sharing)
 ##### The release was compiled using pyinstaller.
+###### NOTE: It takes roughly up to 1 minute for the app to start and open after clicking the icon. Will fix that in the future.
 ---
 
 ## 🔍 Features
